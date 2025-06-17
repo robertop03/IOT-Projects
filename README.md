@@ -11,6 +11,7 @@ Below, you will find the individual project repositories, along with a brief des
 **Description:**  
 An interactive game where players convert decimal numbers displayed on an LCD into their binary equivalents using LEDs and tactile buttons.  
 The game increases in difficulty by reducing the time limit for each round, and the final score is displayed at the end.
+[Binary LED Game](https://github.com/robertop03/Progetto1IoT)
 
 ---
 
@@ -19,6 +20,7 @@ The game increases in difficulty by reducing the time limit for each round, and 
 **Description:**  
 An Arduino-based IoT system designed to monitor waste levels, temperature, and user presence.  
 It features an automatic gate and communicates with a graphical user interface (GUI) for efficient waste management.
+ [Smart Waste Management System](https://github.com/mamax2/Progetto2IoT)
 
 ---
 
@@ -33,5 +35,7 @@ It consists of four subsystems:
 - **Dashboard** (web app)
 
 The system uses MQTT, serial communication, and HTTP protocols for seamless interaction between components.
+
+[Smart Temperature Monitoring System](https://github.com/Rusce/ProgettoIoT3)
 
 ---
